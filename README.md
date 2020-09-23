@@ -3,7 +3,7 @@ This project is related to the course  Data-mining for networks of my Master 2 U
 # Datatsets:
 We used the annotated-trace.csv dataset that contains all the informations about the users flows in the website to decide on the types of the users( malicious or correct users).
 # experimental Settings:
-We build the end host graphlets correspending to flows in annotated-trace.csv then we build the end host models using the random walk kernel and finaly we tried to predict the anomalous traffic using the previous built model
+We build the end host graphlets correspending to flows in annotated-trace.csv then we build the end host models using the random walk kernel and finally we tried to predict the anomalous traffic using the previous built model
 # requirements:
  - Pandas
  - Numpy
