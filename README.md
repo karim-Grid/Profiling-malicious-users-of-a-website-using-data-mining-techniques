@@ -8,3 +8,5 @@ We build the end host graphlets correspending to flows in annotated-trace.csv th
  - Pandas
  - Numpy
  - NetworkX to build the graphs with python
+# References:
+https://www.researchgate.net/publication/220850186_Profiling_the_End_Host
