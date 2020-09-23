@@ -7,4 +7,4 @@ We build the end host graphlets correspending to flows in annotated-trace.csv th
 # requirements:
  - Pandas
  - Numpy
- - Networkx
+ - NetworkX to build the graphs with python
